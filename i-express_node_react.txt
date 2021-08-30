@@ -1,0 +1,24 @@
+~ 看看 node-canvas，它是 Node.js 的 Canvas 实现
+
+# JavaScript Charts from JSON Data	:	https://canvasjs.com/docs/charts/how-to/javascript-charts-from-json-data-api-and-ajax/
+~ how to pull user provided JSON data from a page and then create a randomly generated pie chart using Canvas.
+
+# express node canvasjs draw line github
+
+I:\JOB
+├─CAN-Monitoring a. b.&c.(optional) d.
+│  └─d2.PKeidel_nodejs-can-monitor - Websocket Not Rest API 	└─d2.canvasjs json LEARN JAVASCRIPT 3 JSON & CANVAS :  http://www.newthinktank.com/2019/04/learn-javascript-3-json-canvas/ └─d2.node express -canvas [v] Making an HTML5 Canvas app using express : https://dev.to/kyorkston/making-an-html5-canvas-app-using-express-431l
+│      └─nodejs-can-monitor - Halt
+│      └─
+├─TQS-FOTA a.
+├─TQS-Log_mongo a. b. c.-optional 
+└─TQS-Web a. b. c. d. e.(optional)
+
+08/272021 p.s.  canvas-app - draw a merry christmas card	-	https://github.com/kyorkston/canvas-app
+
+08/30/2021 NOTE d2 + https://github.com/covid-19-au	-	http://localhost:3008/
+
+'''
+Error: An API access token is required to use Mapbox GL. See https://www.mapbox.com/api-documentation/#access-tokens-and-token-scopes
+
+pk.eyJ1IjoiYmVpLXJkMDJuYXZjMiIsImEiOiJja3N4d25jNnQwMXhmMnRtb3ZobWZ2cGFtIn0.NVUfPAFw4sYXUKQoeuAh1A	:	https://account.mapbox.com/access-tokens
